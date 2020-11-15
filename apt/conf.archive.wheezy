@@ -1,0 +1,2 @@
+# Repositories have been archived, meaning that they will remain invalid forever
+Acquire::Check-Valid-Until "false";
